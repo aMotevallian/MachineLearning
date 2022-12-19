@@ -1,0 +1,3 @@
+this is a Kmeans algorithm from the scratch
+first used on a data with x and y values 
+then used the algorithm on an image to reduce the number of colors used in the image
